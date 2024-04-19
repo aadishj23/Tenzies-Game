@@ -6,7 +6,7 @@ function App() {
   function handleClick(){
     let newArr=[]
     for(let i=0;i<10;i++){
-      newArr.push(Math.floor((Math.random())*6) +1)
+      newArr.push((Math.floor((Math.random())*6) +1))
     }
     return newArr
   }
