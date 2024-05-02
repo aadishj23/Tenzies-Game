@@ -1,1 +1,1 @@
-Deployed Link- https://tenzies-game-tan.vercel.app/
+Link- https://tenzies-game-tan.vercel.app/
