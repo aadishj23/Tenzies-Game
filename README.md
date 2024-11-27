@@ -1,1 +1,4 @@
-Link- https://tenzies-game-tan.vercel.app/
+# Tenzies
+
+- Made using React
+- Website: https://tenzies.aadish.tech/
